@@ -5,6 +5,7 @@
   "author": "zhouxiang1991 <zhouxiang219@163.com>",
   "license": "MIT",
   "dependencies": {
+    "conventional-changelog-conventionalcommits": "4.2.1",
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4"
   }
