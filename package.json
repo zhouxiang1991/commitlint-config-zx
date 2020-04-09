@@ -1,0 +1,11 @@
+{
+  "name": "commitlint-config-zx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhouxiang1991 <zhouxiang219@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4"
+  }
+}
